@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the ships taken by the fleet of the Common-wealth of England, since the late engagement of the Admirall Trump, neer Dover (contrary to the law of nature, and customs of nations) at the same time that three of their embassadors were here treating of peace with the Parliaments answer to the paper of the Lord Paw, wherein he desired them to propound what they thought reasonable and just to compose the present differences between them and the States Generall of the United Provinces.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88362</idno>
+            <idno type="STC">Wing L2507</idno>
+            <idno type="STC">Thomason 669.f.16[72]</idno>
+            <idno type="STC">ESTC R211554</idno>
+            <idno type="EEBO-CITATION">99870270</idno>
+            <idno type="PROQUEST">99870270</idno>
+            <idno type="VID">163225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[72])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the ships taken by the fleet of the Common-wealth of England, since the late engagement of the Admirall Trump, neer Dover (contrary to the law of nature, and customs of nations) at the same time that three of their embassadors were here treating of peace with the Parliaments answer to the paper of the Lord Paw, wherein he desired them to propound what they thought reasonable and just to compose the present differences between them and the States Generall of the United Provinces.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (ports.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes portraits of admirals Tromp and With.</note>
+                  <note>Annotation on Thomason copy: "Octob. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657 --  Early works to 1800.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653 --  Early works to 1800.</term>
+               <term>With, Witte Corneliszoon de, 1599-1658 --  Early works to 1800.</term>
+               <term>Pauw, Adriaan, 1585-1653 --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163225:1" rendition="simple:additions"/>
+            <head>A Liſt of the Ships taken by the Fleet of the Common-wealth of England, ſince the late
+Engagement of the Admirall Trump, neer Dover (contrary to the Law of Nature, and cuſtom of Nations) at the ſame
+time that three of their Embaſſadors were here Treating of Peace, with the Parliaments Anſwer to the Paper of the Lord
+Paw, wherein he deſired them to propound what they thought reaſonable and juſt to compoſe the preſent differences
+between them and the States Generall of the United Provinces.</head>
+            <p>
+               <figure>
+                  <head>The Effigies of both the Admirals of HOLLAND.</head>
+                  <p>Martin Tromp. Admirall
+of Holland &amp; Weſt-frieſland.</p>
+                  <p>Witte Corneliz the With
+Vice Admirall of Holl: &amp; W: F:</p>
+               </figure>
+            </p>
+            <div type="part">
+               <head>The Parliaments Anſwer to the Paper of the
+Lord Paw, wherein he deſires them to
+propound what they thinke is reaſonable
+and juſt to compoſe the preſent differences
+between this Common-wealth, and the
+States Generall of the <g ref="char:V">Ʋ</g>nited Provinces.</head>
+               <p>1 <seg rend="decorInit">T</seg>Hat the Lords the States Generall of
+the United Provinces, doe pay and
+ſatisfie unto this Common-wealth,
+the charges and dammages this State
+hath ſuſtained, and been put unto by the pre<g ref="char:EOLhyphen"/>parations
+of the States Generall, and their at<g ref="char:EOLhyphen"/>tempts
+this Summer; the particulars whereof
+ſhall be in due time produced.</p>
+               <p>2 That upon the payment of the Sum to be
+agreed upon, as aforeſaid, for charges and dam<g ref="char:EOLhyphen"/>mages,
+or ſecuring the ſame to the ſatisfaction of
+the Parliament, there ſhall follow thereupon
+a ceſſation of all acts of Hoſtility, and the
+Ships and goods taken ſince the late differences
+ſhall be releaſed.</p>
+               <p>3 The two former Propoſitions being aſſen<g ref="char:EOLhyphen"/>ted
+unto, and put in execution, the ſecurity for
+time to come, which the Parliament doth expect,
+is by both States contracting a firm Alliance, and
+Conſtancy of intereſt for the good of both,
+which the Parliament of England is willing
+on their part by all juſt meanes and wayes to
+endeavour.</p>
+               <p>The Lord <hi>Paw</hi> having received theſe Propo<g ref="char:EOLhyphen"/>ſitions,
+ſoon after returned this Anſwer, that
+he had received Orders from his Superiours,
+That he ſhould with all ſpeed returne back again,
+and could advance no further in the ſaid nego<g ref="char:EOLhyphen"/>tiation,
+and therefore deſired to be admitted to
+take his leave of the Honourable Councell to go
+over.</p>
+               <p>Sir <hi>George Aſcue</hi> had advice of thirty or for<g ref="char:EOLhyphen"/>ty
+Dutchmen, homewards bound, with four
+men of war for their Convoy, hearing they
+were very neer the narrow, he preſently weigh<g ref="char:EOLhyphen"/>ed
+Anchor with nine Sayle, and ſtood over
+the coaſt of France; ſome of his headmoſt Ships
+came up with the Dutch Fleet, twenty ſix of
+them ran directly aſhore upon <hi>Callis-ſands,</hi> five
+we tooke two more we got off from the ſands,
+and burnt three: This Fleet of the Dutch came
+from <hi>Tartadoes</hi> in <hi>Portugall,</hi> moſt of them Laden
+with Salt and Oyle.</p>
+            </div>
+            <div type="part">
+               <head>The Names of the Dutch men of warre, taken
+by Generall Blake in the North, being a
+Guard of the Fiſhing Buſſes.</head>
+               <list>
+                  <item>Guns</item>
+                  <item>Ball of Rotterdam,—24</item>
+                  <item>Water hound Vice-admirall,—29</item>
+                  <item>Sampſon of Anchinſens,—28</item>
+                  <item>Armes of Holland,—30</item>
+                  <item>Noahs arke,—24</item>
+                  <item>Swan of Amſterdam,—28</item>
+                  <item>Adam and Eve,—24</item>
+                  <item>Iohn Baptiſt,—22</item>
+                  <item>Land of Promiſe,—24</item>
+                  <item>Sampſon,—24</item>
+               </list>
+               <p>Two of which were Sunk.</p>
+               <list>
+                  <item>Antonia of Venice.</item>
+                  <item>Armas Medenblicke.</item>
+                  <item>An of Amſterdam.</item>
+                  <item>Armes of Slaca.</item>
+                  <item>Andrew of Gotenburgh.</item>
+                  <item>Bareland of Middleborough.</item>
+                  <item>Black bury bunch.</item>
+                  <item>Bee ſwarme.</item>
+                  <item>Biſhop Fluſhing.</item>
+                  <item>Cock and Roſecrance.</item>
+                  <item>Cheſtnuttree of Amſterdam.</item>
+                  <item>King David Middleborough.</item>
+                  <item>Drinke all.</item>
+                  <item>Daniel Fluſhing.</item>
+                  <item>Encreaſing Moon.</item>
+                  <item>Emans Amſterdam.</item>
+                  <item>Eve of Fluſhing.</item>
+                  <item>Faith of Swadan.</item>
+                  <item>Fortune.</item>
+                  <item>Idem at Plimouth.</item>
+                  <item>Idem.</item>
+                  <item>Fortune Dolphane.</item>
+                  <item>Fortune Fluſhing.</item>
+                  <item>Fortune Middleborough.</item>
+                  <item>Hollands Doſtruit.</item>
+                  <item>Hope Fluſhing.</item>
+                  <item>Hope Amſterdam.</item>
+                  <item>Hollands time of Eden.</item>
+                  <item>Horſe golden.</item>
+                  <item>Hope Middleborough.</item>
+                  <item>Jacob Amſterdam.</item>
+                  <item>John Baptiſt.</item>
+                  <item>Jacob of Harding.</item>
+                  <item>Love.</item>
+                  <item>Love at Plimouth.</item>
+                  <item>Lamb of Camphire.</item>
+                  <item>Love of Surdam.</item>
+                  <item>Love Amſterdam.</item>
+                  <item>Lion golden Harling.</item>
+                  <item>Maid of Encuſian.</item>
+                  <item>Marke.</item>
+                  <item>Matthew Rotterdam.</item>
+                  <item>Oxe.</item>
+                  <item>Oringe tree.</item>
+                  <item>Peter Roterdam.</item>
+                  <item>Paul Amſterdam.</item>
+                  <item>Paul Rotterdam.</item>
+                  <item>Peter Houſden.</item>
+                  <item>Peter of Amſterdam.</item>
+                  <item>Prince little.</item>
+                  <item>Pincke.</item>
+                  <item>Pelican Fluſhing.</item>
+                  <item>Roſe.</item>
+                  <item>Swan Amſterdam.</item>
+                  <item>Golden Star.</item>
+                  <item>Swan Rotterdam.</item>
+                  <item>Small boat at Gowes.</item>
+                  <item>Towne Countrey.</item>
+                  <item>Young Tobians Kucuſion.</item>
+                  <item>Tongues.</item>
+                  <item>Prince William.</item>
+                  <item>Young Prince Fluſhing.</item>
+                  <item>David Rotterdam.</item>
+                  <item>The Great St. Marke.</item>
+                  <item>Abraham Offering.</item>
+                  <item>Alkmore of Almore.</item>
+                  <item>Abraham and Iſaac.</item>
+                  <item>Armes Fluſhing.</item>
+                  <item>Andrew Dover.</item>
+                  <item>Blacklove Fluſhing.</item>
+                  <item>Browne Fiſh and Fortune.</item>
+                  <item>Brown Fiſh of Adam.</item>
+                  <item>Baker at Dover.</item>
+                  <item>Black oxe of Stock holn.</item>
+                  <item>Black horſe Rotterdam.</item>
+                  <item>Clump old of Edom.</item>
+                  <item>Clump young.</item>
+                  <item>Charity of Amſterdam.</item>
+                  <item>Cook of Encuſion.</item>
+                  <item>Charity of Fluſhing.</item>
+                  <item>Coney dicto.</item>
+                  <item>Charity Herring Buſſe.</item>
+                  <item>Caſtle of Huntſtood.</item>
+                  <item>Childrens plea.</item>
+                  <item>Cheſtnuttree of Bull.</item>
+                  <item>Duck of Amſterdam.</item>
+                  <item>Dove of Encuſion.</item>
+                  <item>Elephant Amſterdam.</item>
+                  <item>Endraught alias unity.</item>
+                  <item>Earle, Amſterdam.</item>
+                  <item>Fortune Herring buſſe.</item>
+                  <item>Flying heart.</item>
+                  <item>Flower deluce.</item>
+                  <item>Fortune Rotterdam hering buſſe</item>
+                  <item>Fortune Rotterdam Plimouth.</item>
+                  <item>Fortune of Encuſion.</item>
+                  <item>Golden Fortune.</item>
+                  <item>Gentleman of Holland.</item>
+                  <item>George of Harling.</item>
+                  <item>Greyhound.</item>
+                  <item>George of Middleborough.</item>
+                  <item>Gift of God.</item>
+                  <item>Huntſman of Brook.</item>
+                  <item>Hunter, a Buſſe.</item>
+                  <item>Hopewell a Buſſe.</item>
+                  <item>Hollands town of Encuſion.</item>
+                  <item>Hope of Middleborough.</item>
+                  <item>John of Amſterdam.</item>
+                  <item>Jacob of Amſterdam.</item>
+                  <item>John Evangeliſt.</item>
+                  <item>King David, Rotterdam.</item>
+                  <item>King David of Edom.</item>
+                  <item>Linnin-Draper, Amſterdam.</item>
+                  <item>St. Laurence, Dover.</item>
+                  <item>Love Amſterdam.</item>
+                  <item>Man Fluſhing.</item>
+                  <item>May flower.</item>
+                  <item>Middleborough.</item>
+                  <item>St. Maria.</item>
+                  <item>Oldman Horne.</item>
+                  <item>Prince Hendrick, Fluſhing.</item>
+                  <item>Peace Rotterdam.</item>
+                  <item>Peter Encuſion.</item>
+                  <item>Prince, Amſterdam.</item>
+                  <item>Paul Amſterdam.</item>
+                  <item>Pilgroom.</item>
+                  <item>Princeſſe royall.</item>
+                  <item>Red Mill, Amſterdam.</item>
+                  <item>Rob. alias Black-fiſh.</item>
+                  <item>Red Fortune.</item>
+                  <item>Star Rotterdam.</item>
+                  <item>Star Wickle.</item>
+                  <item>Spotted Dog.</item>
+                  <item>Sampſon Encuſion.</item>
+                  <item>Stock-helme.</item>
+                  <item>Turke Dover.</item>
+                  <item>Water dog of Encuſion.</item>
+                  <item>Chriſtiana.</item>
+                  <item>The North Cooper.</item>
+                  <item>Aſuerus.</item>
+               </list>
+               <p>Taken by Captaine Pen upon the coaſt of
+France, neer Boleigne, having been five years
+in the Duke of Venice his ſervice, and were
+bound home for Holland, laden with Rice, Oyl,
+Peece Goods, Brimſtone, Anniſeeds, and other
+rich commodities, which with thoſe taken by
+Gen <hi>Blake,</hi> are eſteemed no leſſe worth then ele<g ref="char:EOLhyphen"/>ven
+hundred thouſand pounds.</p>
+               <p>Alſo taken by General <hi>Blake, 26. Auguſt,</hi> 1652.
+Severall Dutch Ships, one of twenty ſix guns
+that came from <hi>Almat</hi> in the bay of <hi>Allicant,</hi> la<g ref="char:EOLhyphen"/>den
+with wools, ſtrong waters and ſalt; likewiſe
+one of twenty guns that came from the Weſt-In<g ref="char:EOLhyphen"/>dies,
+laden with ginger, ſugar, tobacco; another
+of eighteen guns that came from Capode verde,
+bound for America, laden with hides and Ele<g ref="char:EOLhyphen"/>phant
+teeth, another of fifteen guns that came
+from Farnam Buck, laden with Sugar, Brazill
+wood, another ſmall veſſell with the like com<g ref="char:EOLhyphen"/>modity,
+as alſo three prizes of wine and ſalt.</p>
+               <p>Seven men of warre and ſix fire ſhips taken by
+Generall <hi>Blake,</hi> going to relieve Dunkirk.</p>
+               <p>17. Sept. Generall <hi>Blake</hi> took ſixteen prizes
+laden with ſalt, wine, aquavitae, five of them from
+Lisbon, one of them worth 100000 l.</p>
+               <p>21. Sept. 1652. Two Ships from Ginne,
+their lading was Gold and Elephants teeth, by
+foul weather were beaten off from their Gene<g ref="char:EOLhyphen"/>rall,
+and forced into Plimouth.</p>
+               <p>25. Sept. 1652. The Holland fleet appeared
+on the backſide of the Goodwin, but were that
+night driven backe by a ſtorme; the twenty ſix
+day they appeared and were forſt away by ano<g ref="char:EOLhyphen"/>ther
+ſtorme, twenty ſeven were forſt away the
+third time the Generall <hi>Blake</hi> got under
+ſayl, and diſcovered the Dutch, they had two
+Admiralls <hi>De Witte</hi> and <hi>Ruiler,</hi> with about fif<g ref="char:EOLhyphen"/>ty
+four ſayl of men of war, and ſome ſmall
+veſſels; our number was pretty equal with them.
+The event of the fight.</p>
+               <p>Reer Admirall of the Dutch thirty ſix guns
+ſank, a great Veſſell of thirty guns taken, their
+Reer-Admirall himſelfe taken Priſoner, and
+one Captaine more, three hundred priſoners ta<g ref="char:EOLhyphen"/>ken,
+one great Frigot of the Hollanders ſeen to
+ſink; two Dutch Veſſels ſunk in the night after
+the fight. One hundred and odde of the Dutch
+ſlaine and drowned in the Reer-Admirall; all
+the Dutch Fleet generally much torne and ſhat<g ref="char:EOLhyphen"/>tered,
+one of the Maſts, and three of their Ships
+being ſhot off by the Great Ship called the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+               <p>A Guinne Merchant belonging to Amſter<g ref="char:EOLhyphen"/>dam,
+very richly laden with gold, to the value
+of 60000l. being boarded by our men, ſunk im<g ref="char:EOLhyphen"/>mediately,
+and about ſix or ſeven of our men
+ſunk with her.</p>
+               <p>20. October, 1652. the Falmouth Frigot
+took a man of war, and a Merchant Ship la<g ref="char:EOLhyphen"/>den
+with a hundred eighty eight Cheſt of Sugar
+between 30 and 40000 weight of Brazill 1000d.
+the man of war taken with her, was of more va<g ref="char:EOLhyphen"/>lue
+then the prize her ſelfe.</p>
+               <p>12 October, Our Fleet took fifteen ſayl of the
+Hollanders; by their coulers they ſeemed to be
+Sweeds, Hamburgs and Lubecks; but they were
+found to be Hollanders, moſt of them came from
+Fiſhing.</p>
+               <p>18. Octob. A Fleet of our Ships comming
+from Denmark, fel among the Dutch Fiſher-men;
+took fifteen or ſixteen Sayle, and beſides a Dutch
+man of warre of twenty guns, about thirteen
+prizes more, in all about thirty prizes.</p>
+               <p>20. <hi>Octob,</hi> Capt. <hi>Day,</hi> who commands the
+<hi>Warwick</hi> hath taken a <hi>Hollander</hi> of about 100.
+Tun laden with <hi>Stumm wines.</hi>
+               </p>
+               <p>22 <hi>Octob. 1652. Marmaduke</hi> Frigot brought
+into the <hi>Downs 6 Dutch</hi> Ships, laden with <hi>wines
+ſtrong-waters</hi> and alſo ſome <hi>Dollars.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by M S.
+1652.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
